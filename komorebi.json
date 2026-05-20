@@ -1,18 +1,61 @@
 {
   "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.40/schema.json",
   "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
+  "minimum_window_width": 0,
+  "minimum_window_height": 0,
+  "resize_delta": 50,
+  "window_container_behaviour": "Create",
+  "float_override": false,
+  "floating_layer_behaviour": "Tile",
+  "toggle_float_placement": "None",
+  "floating_layer_placement": "None",
+  "float_override_placement": "None",
+  "float_rule_placement": "None",
+  "cross_boundary_behaviour": "Monitor",
+  "unmanaged_window_operation_behaviour": "Op",
+  "mouse_fllows_focus": true,
   "window_hiding_behaviour": "Cloak",
-  "cross_monitor_move_behaviour": "Insert",
-  "default_workspace_padding": 10,
-  "default_container_padding": 20,
+  "cross_monitor_move_behaviour": "Swap",
+  "default_workspace_padding": 1,
+  "default_container_padding": 1,
   "border": true,
-  "border_width": 8,
+  "border_width": 6,
   "border_offset": -1,
-  "theme": {
-    "palette": "Base16",
-    "name": "Ashes",
-    "unfocused_border": "Base03",
-    "bar_accent": "Base0D"
+  "border_style": "System",
+  "border_implementation": "Komorebi",
+  "transparency": true,
+  "transparency_alpha": 245,
+   "border_colours": {
+    "single": {
+      "r": 150,
+      "g": 75,
+      "b": 255
+    },
+    "stack": {
+      "r": 0,
+      "g": 165,
+      "b": 66
+    },
+    "monocle": {
+      "r": 255,
+      "g": 51,
+      "b": 153
+    },
+    "floating": {
+      "r": 245,
+      "g": 245,
+      "b": 165
+    },
+    "unfocused": {
+      "r": 128,
+      "g": 128,
+      "b": 128
+    },
+    "unfocused_locked": {
+      "r": 158,
+      "g": 8,
+      "b": 8
+    }
   },
   "monitors": [
     {
