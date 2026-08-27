@@ -24,7 +24,7 @@
   "border_style": "System",
   "border_implementation": "Komorebi",
   "transparency": true,
-  "transparency_alpha": 245,
+  "transparency_alpha": 255,
    "border_colours": {
     "single": {
       "r": 150,
