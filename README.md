@@ -111,3 +111,11 @@ komorebic start --whkd --bar
 | `Alt + I` | Показать / скрыть подсказки по хоткеям |
 | `Alt + O` | Перезапустить whkd |
 | `Alt + Shift + O` | Перезагрузить конфиг komorebi |
+
+## Лицензия
+
+Собственные файлы этого репозитория — `README.md` и `komorebi.json` — распространяются по лицензии MIT, © 2026 Дмитрий Непобедимый / DmNep. `komorebi.json` основан на `docs/komorebi.example.json` из [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi): под MIT отдаются только настройки из этого репозитория, сам пример остаётся под Komorebi License 2.0.0.
+
+Чужой код не перелицензируется. `.config/whkdrc` и `komorebi.bar.json` совпадают с примерами komorebi v0.1.40 (`docs/whkdrc.sample`, `docs/komorebi.bar.example.json`) и остаются под [Komorebi License 2.0.0](https://github.com/LGUG2Z/komorebi/blob/master/LICENSE.md). `applications.json` — снимок [`applications.json`](https://github.com/LGUG2Z/komorebi-application-specific-configuration) и остаётся под MIT © 2024 Jade Iqbal.
+
+Лицензия собственных файлов: [MIT](LICENSE) © 2026 Дмитрий Непобедимый / DmNep.
