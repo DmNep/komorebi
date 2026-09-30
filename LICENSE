@@ -1,0 +1,42 @@
+This MIT license applies only to the original files in this repository:
+
+- README.md
+- komorebi.json
+
+Third-party files are not relicensed:
+
+- .config/whkdrc is an unmodified copy of docs/whkdrc.sample from
+  https://github.com/LGUG2Z/komorebi (v0.1.40) and remains under the
+  Komorebi License 2.0.0.
+- komorebi.bar.json is an unmodified copy of docs/komorebi.bar.example.json
+  from the same release and remains under the Komorebi License 2.0.0.
+- applications.json is a snapshot of applications.json from
+  https://github.com/LGUG2Z/komorebi-application-specific-configuration
+  and remains under the MIT License, Copyright (c) 2024 Jade Iqbal.
+
+komorebi.json is derived from docs/komorebi.example.json in LGUG2Z/komorebi.
+The MIT license below covers the configuration written for this repository.
+The upstream example remains under the Komorebi License 2.0.0 and is not
+relicensed.
+
+MIT License
+
+Copyright (c) 2026 Дмитрий Непобедимый / DmNep
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
